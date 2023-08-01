@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Jacob/Documents/Unreal Projects/DevWithTheBoys/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Jacob/Documents/Unreal Projects/DevWithTheBoys/Content/Levels/TestMap.umap",
+				"C:/Users/Jacob/Documents/Unreal Projects/DevWithTheBoys/Content/Blueprints/BP_Player.uasset",
+				"C:/Users/Jacob/Documents/Unreal Projects/DevWithTheBoys/Content/Blueprints/BP_PointAndClick_GM.uasset"
+			]
+		}
+	]
+}
